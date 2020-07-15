@@ -91,7 +91,7 @@ Task 7 (16 July)
 SQL queries ---( Select, update , ALter, Joins)
 Empolyee table
 empNo(Primary key) EmpName , Dept , Add,Salary 
-20 Emplyees
+10 Emplyees
 
 Select -- only name
 emp with highest salary
