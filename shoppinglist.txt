@@ -5,3 +5,4 @@ banana
 carrots
 grapes
 cherries
+cereal
