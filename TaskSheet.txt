@@ -1,0 +1,119 @@
+-----
+Technical skills: Install git bash
+
+Git hub
+gitlab
+aws code commit
+
+
+Task 1 --- Git hub account -- repository ---- local system download --- 
+
+Git pull
+Git status
+git commit
+
+
+Task 2 ---- (12 July)
+
+text file
+
+git add
+
+git commit
+
+git push 
+
+Task 3 --- Python --- (14 July)
+
+two program ---
+
+Git push master
+
+send to me and i'll verify that.
+
+Task4 Cloud skills (Weekly discuss -- )
+
+Public cloud
+Private cloud
+
+public cloud -- AWS , Azure , Google cloud, Alibaba, Oracle cloud, digital ocean
+
+AWS ---- study
+
+Cloud skills : IaaS, PaaS, SaaS, IaaC
+
+
+--------------------------------------------------------
+
+Front end page -- Static website --- HTML CSS(18 July) (Yoga --- ShyamDevYoga)
+
+Deploy--- S3 bucket --- I'll tell
+
+Public DNS --- Access webosite from anywhere
+
+
+-------------------
+long term goal (Weekly)
+
+Master python -----
+Master Public cloud -- AWS  Azure
+Git --- all commands and merge conflicts
+CI/CD --- Deployment startegy 
+
+
+------------------------
+Task 5 (22nd July)
+
+Troubleshooting skills
+
+Ping ----
+hostname ----
+RDP ---
+Active directorty ---
+port number --
+ftp
+http
+sftp
+https
+DNS
+DHCP
+ICMP
+telnet
+
+
+-------
+Task 6
+
+Linux basic commands --- 
+
+----
+Task 7 (16 July)
+SQL queries ---( Select, update , ALter, Joins)
+Empolyee table
+empNo(Primary key) EmpName , Dept , Add,Salary 
+20 Emplyees
+
+Select -- only name
+emp with highest salary
+emp with lowest salary
+avg salary
+IT
+MGMT
+London
+USA
+
+-------
+Task 8
+
+Hacker rank puthon 100 % (13 July)
+
+----------
+
+Mode of communication --- via mail --- one to one meeting --- (vyasdev02@gmail.com)
+
+Daily updates --- send daily---
+
+Dead line -- meet Monday 
+
+
+
