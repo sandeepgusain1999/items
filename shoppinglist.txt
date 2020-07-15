@@ -6,3 +6,5 @@ carrots
 grapes
 cherries
 cereal
+cucummbers
+raddish
